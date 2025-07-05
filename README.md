@@ -23,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=medetbr&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medetbr&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## Sertifikalar
